@@ -1,0 +1,40 @@
+﻿生成启动时间为 2017/8/2 13:40:35。
+     1>项目“F:\vs2010\day010\DataBaseTool_001\DataBaseTool\DataBaseTool.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\DataBaseTool.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Release\DataBaseTool.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\DataBaseTool.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\DataBaseTool.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AdoDb.cpp CheckDBCode.cpp DataBaseTool.cpp DataBaseToolDlg.cpp DataSourceDlg.cpp
+         AdoDb.cpp
+         CheckDBCode.cpp
+     1>CheckDBCode.cpp(355): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\VS2010\VC\include\string.h(283) : 参见“wcscpy”的声明
+         DataBaseTool.cpp
+         DataBaseToolDlg.cpp
+         DataSourceDlg.cpp
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\DataBaseTool.res" DataBaseTool.rc 
+       Link:
+         D:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs2010\day010\DataBaseTool_001\Release\DataBaseTool.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\DataBaseTool.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\vs2010\day010\DataBaseTool_001\Release\DataBaseTool.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs2010\day010\DataBaseTool_001\Release\DataBaseTool.lib" /MACHINE:X86 Release\DataBaseTool.res
+         Release\AdoDb.obj
+         Release\CheckDBCode.obj
+         Release\DataBaseTool.obj
+         Release\DataBaseToolDlg.obj
+         Release\DataSourceDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         DataBaseTool.vcxproj -> F:\vs2010\day010\DataBaseTool_001\Release\DataBaseTool.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\vs2010\day010\DataBaseTool_001\Release\DataBaseTool.exe;#1" /manifest Release\DataBaseTool.exe.intermediate.manifest D:\VS2010\VC\Include\Manifest\dpiaware.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\DataBaseTool.unsuccessfulbuild”。
+         正在对“Release\DataBaseTool.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\vs2010\day010\DataBaseTool_001\DataBaseTool\DataBaseTool.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.65

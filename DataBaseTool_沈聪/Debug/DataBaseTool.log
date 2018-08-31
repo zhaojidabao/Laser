@@ -1,0 +1,35 @@
+﻿生成启动时间为 2017/8/1 15:24:13。
+     1>项目“F:\vs2010\day010\DataBaseTool_001\DataBaseTool\DataBaseTool.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\DataBaseTool.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\DataBaseTool.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DataBaseToolDlg.cpp
+         DataBaseToolDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs2010\day010\DataBaseTool_001\Debug\DataBaseTool.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\DataBaseTool.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\vs2010\day010\DataBaseTool_001\Debug\DataBaseTool.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs2010\day010\DataBaseTool_001\Debug\DataBaseTool.lib" /MACHINE:X86 Debug\DataBaseTool.res
+         Debug\DataBaseTool.exe.embed.manifest.res
+         Debug\AdoDb.obj
+         Debug\CheckDBCode.obj
+         Debug\DataBaseTool.obj
+         Debug\DataBaseToolDlg.obj
+         Debug\DataSourceDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DataBaseTool.exe.embed.manifest" /manifest Debug\DataBaseTool.exe.intermediate.manifest D:\VS2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         DataBaseTool.vcxproj -> F:\vs2010\day010\DataBaseTool_001\Debug\DataBaseTool.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\DataBaseTool.unsuccessfulbuild”。
+         正在对“Debug\DataBaseTool.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\vs2010\day010\DataBaseTool_001\DataBaseTool\DataBaseTool.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.37
