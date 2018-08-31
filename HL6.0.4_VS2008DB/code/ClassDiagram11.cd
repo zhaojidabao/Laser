@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CNodeText" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIQmOFRAQu8NSwIhEVYAEgAMsDcNwsGBF4KBAABBBkA=</HashCode>
+      <FileName>nodetext.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeT" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAARBIgAAOgBAAAAADAAERAAAEAAAAQCAAEEBQwA=</HashCode>
+      <FileName>nodet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeCodebar" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIESE9CUoINAwKQEJoggwUUcDEAk8JBWgsAIEBYHAw=</HashCode>
+      <FileName>nodecodebar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeAI" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAYAAAAAAAAAAgCBAAAACAAgAAAAABAQAAAAAA=</HashCode>
+      <FileName>nodeai.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeV" Collapsed="true">
+    <Position X="1.5" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="CNode" ManuallyRouted="true">
+      <Path>
+        <Point X="4.5" Y="7.25" />
+        <Point X="4.5" Y="6.53" />
+        <Point X="2.25" Y="6.53" />
+        <Point X="2.25" Y="5.147" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABIgAAKgAAAAAADAAARAAAgAAAAQCAAAEBEwA=</HashCode>
+      <FileName>nodev.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeControl" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEQAAAAgAAAAAACAAAAAAAQAAAAQBAAAAAAgA=</HashCode>
+      <FileName>nodecontrol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeDelay" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAAAAAAAAAAAAAAgABBCIAgAAAAACAAAAAAAA=</HashCode>
+      <FileName>nodedelay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeCCD" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAAAAAAAAAAAAAAgCAACAAoAAAEACAAAAAAAA=</HashCode>
+      <FileName>nodeccd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeInput" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAABBABAADAAAgAAACAAgAAAAACAAAAAAAA=</HashCode>
+      <FileName>nodeinput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeT_B" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABARQggKAEgBJAAAACAAAIgIAIgAAAgQAIEIABAg=</HashCode>
+      <FileName>c:\documents and settings\zhongsh\桌面\hl 6.0.3_vs2008_beta(0909_ai)\exportfile\nodet_b.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNode" Collapsed="true">
+    <Position X="3.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABlCBQBEsIBKgoAAAIBDgAA1CEAwGEABQjAAAEBAwI=</HashCode>
+      <FileName>c:\documents and settings\zhongsh\桌面\hl 6.0.3_vs2008_beta(0909_ai)\exportfile\node.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeCircle" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAAsGCIgBAAAIEAgIAEDIEgiEAAAABAABAAgA=</HashCode>
+      <FileName>nodecircle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNodeGrid" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAIAAAAAAAAAAAACAAgEAAgAAAIAAQAAA=</HashCode>
+      <FileName>nodegrid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CText" Collapsed="true">
+    <Position X="6" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAEAAAACAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChain" Collapsed="true">
+    <Position X="2" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>UVelfFZBc4dHaxb0A4Ilj+A2V3FAzGcBcSCiFENAIMA=</HashCode>
+      <FileName>chain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMgrText" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgJARAgAACEHAhAEBALQAAFCAAIgAAAAAAAEBIDMA=</HashCode>
+      <FileName>c:\documents and settings\zhongsh\桌面\hl 6.0.3_vs2008_beta(0909_ai)\exportfile\mgrtext.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChainBH" Collapsed="true">
+    <Position X="2" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiAQAAAAAAAAAAAAAAAABAAAAAAEAQABAAAAAE=</HashCode>
+      <FileName>c:\documents and settings\zhongsh\桌面\hl 6.0.3_vs2008_beta(0909_ai)\exportfile\chainbh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

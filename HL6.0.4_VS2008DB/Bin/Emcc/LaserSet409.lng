@@ -1,0 +1,94 @@
+[DIALOG_LASERSET]
+0=hardware setting 
+1=Back
+2=Next
+3=Save
+4=Cancel
+
+[DIALOG_POWER]
+0=Step 2: hardware setting 
+1=Current(A)
+2=Min Current(A):
+3=Max Current(A):
+4=Analogue Q
+5=Figure Q
+6=Q type
+7=Power type
+8=CO2 laser power
+9=General Power
+10=Figure Power
+11= >= 100W
+12= < 100W
+13=Keep Pulse
+14=Frequency(KHZ)
+15=Release time(us)
+16=Idle Current(A):
+17=Max Power
+
+[DIALOG_MODEL]
+0=Setp 4: Please select the control-model
+1=A new model£¬it's unnecessary to set any delay-time for users. But there are only several lasers can use this model.
+2=Tradition Model£¬every laser can use this model.
+3=Handy Model
+4=Tradition Model
+5=The Model of marking
+6=Head Type
+7=Single Head
+8=Double Head
+
+[DIALOG_LaserType]
+0=Step 1£ºPlease select the laser-type
+1=YAG Laser
+2=DP Laser
+3=EP Laser
+4=CO2 Laser
+5=IPG Laser
+6=SPI Laser
+7=LD Laser
+8=YLPM laser
+
+
+[DIALOG_CONTENT]
+0=Step 5: Congratulation! your setting is finished£¬please save the parameters.
+
+[LaserType_Explain]
+0=YAG Laser
+1=DP Laser
+2=EP Laser
+3=CO2 Laser
+4=IPG Laser
+5=SPI Laser
+6=LD Laser
+7=YLPM laser
+8=other
+
+[Model_Explain]
+0=CO2 Handy Model
+1=CO2 Tradition Model
+2=Adjust Q¡¢General Power + Figure Q Tradition Model
+3=Adjust Q¡¢General Power + Analogue Q Tradition Model
+4=Adjust Q¡¢Figure Power + Figure Q Tradition Model
+5=Adjust Q¡¢Figure Power + Analogue Q Tradition Model
+6=Adjust Q¡¢EP General Power + Analogue Q Handy Model
+7=Adjust Q¡¢EP Figure Power + Figure Q Handy Model
+8=Adjust Q¡¢EP Figure Power + Analogue Q Handy Model
+9=IPG Model
+10=SPI Handy Model
+11=SPI Tradition Model
+12=LD Model
+13=YLPM Model
+
+
+
+
+[DIALOG_ScanType]
+0=Step 3: Select the scan type
+1=CXY
+2=Other
+3=Notice: CXY-scan need preheating
+
+
+
+
+
+
